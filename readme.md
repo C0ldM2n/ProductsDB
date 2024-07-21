@@ -3,7 +3,7 @@
 ## Running PostgreSQL & PgAdmin4 in docker
 docker-compose up -d --build
 
-After that create new database in PgAdmin
+After that create a new database in PgAdmin (Products database is already created)
 Than copy dump file to the docker-compose.yml folder
 
 ### Copying a dump (backup file) to a container

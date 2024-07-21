@@ -1,7 +1,7 @@
-pg_db_products.tar
 /.vscode/
 /data_exports/
 /database/
 /pgadmin/
 /permissions.sh/
 /.idea/
+/test.sql
