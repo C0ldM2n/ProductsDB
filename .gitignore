@@ -4,3 +4,8 @@ pg_db_products.tar
 /database/
 /pgadmin/
 /permissions.sh/
+/.idea/.gitignore
+/.idea/DB.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
